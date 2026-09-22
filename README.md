@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagesh Reddy</h1>
 <h3 align="center">Associate consultant(DevOps)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nag685&label=Profile%20views&color=0e75b6&style=flat" alt="nag685" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
